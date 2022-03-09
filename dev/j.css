@@ -1,4 +1,4 @@
-:root {
+:root { /*Todo: More colors, gradients*/
     --j-color-scheme: unknown;
     --j-palete-pitch-black: #000;
     --j-palete-black: #222;
@@ -18,6 +18,42 @@
     --j-palete-black-13: #ddd;
     --j-palete-black-14: #eee;
     --j-palete-black-15: #fff;
+    --j-palete-pitch-white: #fff;
+    --j-palete-white: #ddd;
+    --j-palete-white-16: #000;
+    --j-palete-white-15: #111;
+    --j-palete-white-14: #222;
+    --j-palete-white-13: #333;
+    --j-palete-white-12: #444;
+    --j-palete-white-11: #555;
+    --j-palete-white-10: #666;
+    --j-palete-white-9: #777;
+    --j-palete-white-8: #888;
+    --j-palete-white-7: #999;
+    --j-palete-white-6: #aaa;
+    --j-palete-white-5: #bbb;
+    --j-palete-white-4: #ccc;
+    --j-palete-white-3: #ddd;
+    --j-palete-white-2: #eee;
+    --j-palete-white-1: #fff;
+    --j-palete-pitch-red: #f00;
+    --j-palete-red: #d11;
+    --j-palete-red-0: #f00;
+    --j-palete-red-1: #f11;
+    --j-palete-red-2: #f22;
+    --j-palete-red-3: #f33;
+    --j-palete-red-4: #f44;
+    --j-palete-red-5: #f55;
+    --j-palete-red-6: #f66;
+    --j-palete-red-7: #f77;
+    --j-palete-red-8: #f88;
+    --j-palete-red-9: #f99;
+    --j-palete-red-10: #faa;
+    --j-palete-red-11: #fbb;
+    --j-palete-red-12: #fcc;
+    --j-palete-red-13: #fdd;
+    --j-palete-red-14: #fee;
+    --j-palete-red-15: #fff;
 }
 @media (prefers-color-scheme: dark) {
     :root {
