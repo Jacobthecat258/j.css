@@ -1,6 +1,6 @@
-:root { /*Todo: more colors, gradients, more color shades (to be held off for a bit), fix order of colors in white*/
-    --j-color-scheme: unknown; /*Colors to add: red, orange, yellow, green, blue, purple, teal, light blue, light green, pink, black, while, grey/gray*/
-    --j-palete-pitch-black: #000;
+:root { /*Todo: more colors, gradients, more color shades (to be held off for a bit), fix order of colors in white, sort colors in order*/
+    --j-color-scheme: unknown; /*Colors to add: red, orange, yellow, green, blue, purple, teal, light blue, light green, pink, black, white, grey/gray*/
+    --j-palete-pitch-black: #000; /*Color sort order: red, orange, yellow, green, light green, teal, blue, light blue, purple, pink, black, grey/gray, white*/
     --j-palete-black: #222;
     --j-palete-black-0: #000;
     --j-palete-black-1: #111;
@@ -72,6 +72,78 @@
     --j-palete-light-green-13: #dfd;
     --j-palete-light-green-14: #efe;
     --j-palete-light-green-15: #fff;
+    --j-palete-pitch-blue: #00f;
+    --j-palete-blue: #33d;
+    --j-palete-blue-0: #00f;
+    --j-palete-blue-1: #11f;
+    --j-palete-blue-2: #22f;
+    --j-palete-blue-3: #33f;
+    --j-palete-blue-4: #44f;
+    --j-palete-blue-5: #55f;
+    --j-palete-blue-6: #66f;
+    --j-palete-blue-7: #77f;
+    --j-palete-blue-8: #88f;
+    --j-palete-blue-9: #99f;
+    --j-palete-blue-10: #aaf;
+    --j-palete-blue-11: #bbf;
+    --j-palete-blue-12: #ccf;
+    --j-palete-blue-13: #ddf;
+    --j-palete-blue-14: #eef;
+    --j-palete-blue-15: #fff;
+    --j-palete-pitch-orange: #f70;
+    --j-palete-orange: #f70;
+    --j-palete-orange-0: #f70;
+    --j-palete-orange-1: #f71;
+    --j-palete-orange-2: #f72;
+    --j-palete-orange-3: #f73;
+    --j-palete-orange-4: #f74;
+    --j-palete-orange-5: #f75;
+    --j-palete-orange-6: #f76;
+    --j-palete-orange-7: #f77;
+    --j-palete-orange-8: #f78;
+    --j-palete-orange-9: #f79;
+    --j-palete-orange-10: #f7a;
+    --j-palete-orange-11: #f7b;
+    --j-palete-orange-12: #f7c;
+    --j-palete-orange-13: #f7d;
+    --j-palete-orange-14: #f7e;
+    --j-palete-orange-15: #f7f;
+    --j-palete-pitch-yellow: #ff0;
+    --j-palete-yellow: #dd2;
+    --j-palete-yellow-0: #ff0;
+    --j-palete-yellow-1: #ff1;
+    --j-palete-yellow-2: #ff2;
+    --j-palete-yellow-3: #ff3;
+    --j-palete-yellow-4: #ff4;
+    --j-palete-yellow-5: #ff5;
+    --j-palete-yellow-6: #ff6;
+    --j-palete-yellow-7: #ff7;
+    --j-palete-yellow-8: #ff8;
+    --j-palete-yellow-9: #ff9;
+    --j-palete-yellow-10: #ffa;
+    --j-palete-yellow-11: #ffb;
+    --j-palete-yellow-12: #ffc;
+    --j-palete-yellow-13: #ffd;
+    --j-palete-yellow-14: #ffe;
+    --j-palete-yellow-15: #fff;
+    --j-palete-pitch-black: #000;
+    --j-palete-black: #222;
+    --j-palete-black-0: #000;
+    --j-palete-black-1: #111;
+    --j-palete-black-2: #222;
+    --j-palete-black-3: #333;
+    --j-palete-black-4: #444;
+    --j-palete-black-5: #555;
+    --j-palete-black-6: #666;
+    --j-palete-black-7: #777;
+    --j-palete-black-8: #888;
+    --j-palete-black-9: #999;
+    --j-palete-black-10: #aaa;
+    --j-palete-black-11: #bbb;
+    --j-palete-black-12: #ccc;
+    --j-palete-black-13: #ddd;
+    --j-palete-black-14: #eee;
+    --j-palete-black-15: #fff;
 }
 @media (prefers-color-scheme: dark) {
     :root {
