@@ -1,0 +1,31 @@
+:root {
+    --j-color-scheme: unknown;
+    --j-palete-pitch-black: #000;
+    --j-palete-black: #222;
+    --j-palete-black-0: #000;
+    --j-palete-black-1: #111;
+    --j-palete-black-2: #222;
+    --j-palete-black-3: #333;
+    --j-palete-black-4: #444;
+    --j-palete-black-5: #555;
+    --j-palete-black-6: #666;
+    --j-palete-black-7: #777;
+    --j-palete-black-8: #888;
+    --j-palete-black-9: #999;
+    --j-palete-black-10: #aaa;
+    --j-palete-black-11: #bbb;
+    --j-palete-black-12: #ccc;
+    --j-palete-black-13: #ddd;
+    --j-palete-black-14: #eee;
+    --j-palete-black-15: #fff;
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        --j-color-scheme: dark;
+    }
+}
+@media (prefers-color-scheme: light) {
+    :root {
+        --j-color-scheme: light;
+    }
+}
