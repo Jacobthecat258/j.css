@@ -91,7 +91,7 @@
     --j-palette-blue-14: #eef;
     --j-palette-blue-15: #fff;
     --j-palette-pitch-orange: #f70;
-    --j-palette-orange: #f70;
+    --j-palette-orange: #e72;
     --j-palette-orange-0: #f70;
     --j-palette-orange-1: #f71;
     --j-palette-orange-2: #f72;
@@ -162,24 +162,24 @@
     --j-palette-green-13: #dad;
     --j-palette-green-14: #eae;
     --j-palette-green-15: #faf;
-    --j-palette-pitch-black: #f88;
-    --j-palette-black: #fbb;
-    --j-palette-black-0: #f88;
-    --j-palette-black-1: #f88;
-    --j-palette-black-2: #f98;
-    --j-palette-black-3: #fa8;
-    --j-palette-black-4: #fb8;
-    --j-palette-black-5: #fc8;
-    --j-palette-black-6: #fd8;
-    --j-palette-black-7: #fe8;
-    --j-palette-black-8: #ff8;
-    --j-palette-black-9: #ff9;
-    --j-palette-black-10: #ffa;
-    --j-palette-black-11: #ffb;
-    --j-palette-black-12: #ffc;
-    --j-palette-black-13: #ffd;
-    --j-palette-black-14: #ffe;
-    --j-palette-black-15: #fff;
+    --j-palette-pitch-pink: #f88;
+    --j-palette-pink: #fbb;
+    --j-palette-pink-0: #f88;
+    --j-palette-pink-1: #f88;
+    --j-palette-pink-2: #f98;
+    --j-palette-pink-3: #fa8;
+    --j-palette-pink-4: #fb8;
+    --j-palette-pink-5: #fc8;
+    --j-palette-pink-6: #fd8;
+    --j-palette-pink-7: #fe8;
+    --j-palette-pink-8: #ff8;
+    --j-palette-pink-9: #ff9;
+    --j-palette-pink-10: #ffa;
+    --j-palette-pink-11: #ffb;
+    --j-palette-pink-12: #ffc;
+    --j-palette-pink-13: #ffd;
+    --j-palette-pink-14: #ffe;
+    --j-palette-pink-15: #fff;
 }
 @media (prefers-color-scheme: dark) {
     :root {
