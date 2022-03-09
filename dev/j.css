@@ -1,5 +1,5 @@
 :root { /*Todo: more colors, gradients, more color shades (to be held off for a bit), fix order of colors in white*/
-    --j-color-scheme: unknown;
+    --j-color-scheme: unknown; /*Colors to add: red, orange, yellow, green, blue, purple, teal, light blue, light green, pink, black, while, grey/gray*/
     --j-palete-pitch-black: #000;
     --j-palete-black: #222;
     --j-palete-black-0: #000;
@@ -54,6 +54,24 @@
     --j-palete-red-13: #fdd;
     --j-palete-red-14: #fee;
     --j-palete-red-15: #fff;
+    --j-palete-pitch-light-green: #0f0;
+    --j-palete-light-green: #2f2;
+    --j-palete-light-green-0: #0f0;
+    --j-palete-light-green-1: #1f1;
+    --j-palete-light-green-2: #1f2;
+    --j-palete-light-green-3: #3f3;
+    --j-palete-light-green-4: #4f4;
+    --j-palete-light-green-5: #5f5;
+    --j-palete-light-green-6: #6f6;
+    --j-palete-light-green-7: #7f7;
+    --j-palete-light-green-8: #8f8;
+    --j-palete-light-green-9: #9f9;
+    --j-palete-light-green-10: #afa;
+    --j-palete-light-green-11: #bfb;
+    --j-palete-light-green-12: #cfc;
+    --j-palete-light-green-13: #dfd;
+    --j-palete-light-green-14: #efe;
+    --j-palete-light-green-15: #fff;
 }
 @media (prefers-color-scheme: dark) {
     :root {
